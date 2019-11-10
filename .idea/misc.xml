@@ -11,10 +11,6 @@
     <file type="web" url="file://$PROJECT_DIR$/qingcheng_web_center" />
     <file type="web" url="file://$PROJECT_DIR$/qingcheng_web_manager" />
     <file type="web" url="file://$PROJECT_DIR$/qingcheng_web_portal" />
-    <type id="Spring" />
-  </component>
-  <component name="JavaScriptSettings">
-    <option name="languageLevel" value="ES6" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
